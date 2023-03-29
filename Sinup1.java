@@ -1,0 +1,2 @@
+public class Sinup1 {
+}
